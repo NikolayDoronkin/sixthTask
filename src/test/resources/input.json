@@ -1,0 +1,54 @@
+{
+  "wagons": [
+    {
+      "id": 1,
+      "hasPerishableFood": false,
+      "loaded": true
+    },
+    {
+      "id": 2,
+      "hasPerishableFood": false,
+      "loaded": false
+    },
+    {
+      "id": 3,
+      "hasPerishableFood": true,
+      "loaded": false
+    },
+    {
+      "id": 4,
+      "hasPerishableFood": true,
+      "loaded": true
+    },
+    {
+      "id": 5,
+      "hasPerishableFood": true,
+      "loaded": false
+    },
+    {
+      "id": 6,
+      "hasPerishableFood": false,
+      "loaded": false
+    },
+    {
+      "id": 7,
+      "hasPerishableFood": true,
+      "loaded": false
+    },
+    {
+      "id": 8,
+      "hasPerishableFood": false,
+      "loaded": true
+    },
+    {
+      "id": 9,
+      "hasPerishableFood": false,
+      "loaded": false
+    },
+    {
+      "id": 10,
+      "hasPerishableFood": false,
+      "loaded": true
+    }
+  ]
+}
